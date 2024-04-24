@@ -7,7 +7,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%20👋%20this%20is%20Dhamo%20daran;I'm%20a%20Full%20Stack%20Java%20Developer%20!!&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&pause=1000&size=27" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%20👋%20this%20is%20Dhamodaran;I'm%20a%20Full%20Stack%20Java%20Developer%20!!&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&pause=1000&size=27" /></a>
 </p>
 <!-- ![Header](https://github.com/rajumb0232/rajumb0232/blob/Main/github-header-image%20(1).png) -->
 <h3 align="center">I'm a java developer from India. I build applications in J2ee. You can often see me exploring new technologies, I do enjoy working with JdbC,servlets, JSP & also frontend technologies like html, css, JavaScript,bootstrap. Take a look at my repositories - some of my best works are pinned here..</h3>
